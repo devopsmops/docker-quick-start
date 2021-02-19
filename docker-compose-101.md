@@ -1,5 +1,8 @@
 # Основы Docker Compose
 
+Присоединяйтесь к нам - [Youtube](https://www.youtube.com/channel/UCqC3c7UHtwoX2wy7fdHc6gg) и [Telegram](https://t.me/devops_mops)
+<br>
+
 **Возможности Docker Compose**
 - Позволяет запускать несколько связанных контейнеров (многоконтейнерное приложение, проект Docker Compose)
 > Проект Docker Compose описывается в файле docker-compose.yaml
