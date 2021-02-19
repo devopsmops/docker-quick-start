@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="files/static/logoDocker.jpg" width="200" height ="200" />
+<img src="files/static/logoDocker.jpg" width="" height ="200" />
 <br>
 <a href="https://t.me/devops_mops"><img src="files/static/logoTelegram.png" width="20" height="20" /></a>
 <img src="files/static/space.png" width="5" />
@@ -8,4 +8,4 @@
 </p>
 <br>
 
-# Docker
+# Docker - Быстрый старт
