@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="files/static/logoDocker.png" width="" height ="150" />
+<img src="logo.png" width="" height ="150" />
 <br><br>
 <br>
 
